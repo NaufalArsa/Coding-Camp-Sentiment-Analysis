@@ -101,4 +101,4 @@ This project proves that traditional ML models with proper preprocessing can ach
 Feel free to reach out or collaborate on similar NLP projects:
 - 💼 [LinkedIn](https://linkedin.com/in/naufalarsa)
 - ✉️ naufal.arsa.27@gmail.com
-- 🧠 Portfolio: [Your Portfolio or GitHub](https://github.com/NaufalArsa)
+- 🧠 Portfolio: [GitHub](https://github.com/NaufalArsa)
