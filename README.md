@@ -30,8 +30,6 @@ In this project, I built a **sentiment analysis pipeline** to classify LinkedIn 
 
 ## 📁 Dataset
 
-> ⚠️ *Due to privacy and platform terms, the dataset isn't included in this repo. Replace with your own review data or contact me for more info.*
-
 The dataset was split into:
 - **Training & Testing (80/20)**
 - **Training & Testing (70/30)**
